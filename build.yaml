@@ -1,8 +1,8 @@
 ---
 include:
   - board: nice_nano
-    shield: lily58_left
+    shield: sofle_left
   - board: nice_nano
-    shield: lily58_right
+    shield: sofle_right
   - board: nice_nano
     shield: settings_reset
